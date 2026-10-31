@@ -1,0 +1,20 @@
+{
+    "quests": [
+        {
+            "id": "training",
+            "title": "Target training",
+            "prerequisiteId": "",
+            "objective": "Target",
+            "requiredCount": 5,
+            "rewardCredits": 100
+        },
+        {
+            "id": "combat",
+            "title": "Clear the area",
+            "prerequisiteId": "training",
+            "objective": "Enemy",
+            "requiredCount": 1,
+            "rewardCredits": 200
+        }
+    ]
+}

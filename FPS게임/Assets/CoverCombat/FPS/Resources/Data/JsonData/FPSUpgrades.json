@@ -1,0 +1,34 @@
+{
+    "upgrades": [
+        {
+            "id": "damage",
+            "title": "Damage",
+            "valuePerLevel": 0.10000000149011612,
+            "costs": [
+                100,
+                200,
+                400
+            ]
+        },
+        {
+            "id": "reload",
+            "title": "Reload speed",
+            "valuePerLevel": 0.07999999821186066,
+            "costs": [
+                100,
+                200,
+                400
+            ]
+        },
+        {
+            "id": "health",
+            "title": "Max health",
+            "valuePerLevel": 20.0,
+            "costs": [
+                100,
+                200,
+                400
+            ]
+        }
+    ]
+}
